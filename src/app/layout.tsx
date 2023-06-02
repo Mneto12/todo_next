@@ -1,5 +1,7 @@
-import './globals.css'
+import '../styles/globals.css'
 import { Inter } from 'next/font/google'
+
+// This represent all static content of the page
 
 const inter = Inter({ subsets: ['latin'] })
 
