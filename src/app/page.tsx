@@ -21,8 +21,12 @@ export default function Home() {
         <h1 
         className='text-2xl sm:text-4xl'
         >
-          Hi 👋 there Welcome to TODO NEXT
+          Hi 👋 there Welcome to Bing Next
         </h1>
+
+        <p className='mt-2'>
+          Ai simulator of Bing Chat
+        </p>
 
         <button 
         className='border-2 text-xl border-white py-2 px-10 my-6 rounded-md hover:bg-white hover:text-black hover:ease-in duration-200'
